@@ -30,3 +30,8 @@ if (nilai >= 75):
     print("LULUS KKM!")
 else:
     print("Anda wajib mengulang")
+
+# Awalan Program
+print("=" * 50)
+print("Selamat datang!")
+print("=" * 50)
