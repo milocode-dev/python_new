@@ -20,3 +20,13 @@ print(a / b)
 nama = input("Siapa nama kamu? ")
 
 print(nama)
+
+# Program If Else
+
+siswa = input("Masukkan identitas anda: ")
+nilai = int(input("Masukkan nilai anda: "))
+
+if (nilai >= 75):
+    print("LULUS KKM!")
+else:
+    print("Anda wajib mengulang")
