@@ -14,3 +14,9 @@ print(a * b)
 
 #Pembagian
 print(a / b)
+
+# Program Print Dasar
+
+nama = input("Siapa nama kamu? ")
+
+print(nama)
